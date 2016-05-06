@@ -1,0 +1,3 @@
+# Echinoida
+Rerunning past echinoid phylogenies with new methods and building a supertree
+Starting with Kroh & Smith 2010, then working on spatangoid phylogenies by Villier et al. 2004,...
